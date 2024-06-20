@@ -1,3 +1,4 @@
+// env setup
 require('dotenv').config();
 const express=require('express')
 const appServer=express();
